@@ -36,9 +36,12 @@
 ## 项目结构
 ```text
 /
-├── index.html  # 页面结构
-├── style.css   # 样式
-└── app.js      # 完整逻辑
+├── index.html                 # 页面结构
+├── style.css                  # 样式（含 3D 动画、响应式布局）
+├── app.js                     # 完整逻辑（起卦、演算、历史记录）
+└── images/                    # 其他资源文件
+    ├── coin-front.png         # 铜钱正面图片
+    └── coin-back.png          # 铜钱反面图片
 ```
 
 ## License
